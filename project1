@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <title>docuem</title>
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="">
+</head>
+
+<body>
+  <!-- <span>How are you?</span>
+  <b>I am ok</b>
+  <h1>How are you?</h1>
+  <p>I am ok</p>
+  <h1 id="name">Mizan</h1>
+  <h1 class="name name2">Mizan</h1>
+  <h1 class="name">Mizan</h1>
+  <iframe src="https://www.prothomalo.com/" style="width: 700px; height: 400px; margin: 25px;"></iframe>
+  <iframe width="500" height="200" src="https://www.youtube.com/embed/pmowC2mj7kI" title="See the video"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"></iframe>
+  <!-- google map iframe -->
+  <form action="">
+    <input type="text" placeholder="Enter Your Name">
+    <input type="email" placeholder="Enter Your email">
+    <input type="number" placeholder="Enter Your phone">
+    <input type="password" placeholder="Enter Your password">
+    <input type="checkbox" checked disabled><label for="">I like code</label>
+    <input type="submit" data="Submit now">
+  </form>
+  <video src="video/Test.mp4" width="200px" height="150" controls autoplay></video>
+  <audio src=""></audio>
+  <script>
+    alert("Hi! hkafdt");
+  </script>
+  <script src="js/app.js"></script>
+</body>
+
+</html>
